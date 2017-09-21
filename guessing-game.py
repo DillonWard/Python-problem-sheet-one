@@ -1,3 +1,6 @@
+# guessing game written in Python
+# Author: Dillon Ward (Dillonward2017@gmail.com)
+# Date: 20/09/2017
 # import 'randint' from the 'random' module
 from random import randint
 

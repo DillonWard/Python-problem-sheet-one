@@ -1,3 +1,7 @@
+# prints out the current time written in Python
+# Author: Dillon Ward (Dillonward2017@gmail.com)
+# Date: 19/09/2017
+
 # imports 'localtime' and 'strftime' from the 'time' module
 # localtime is used for getting the current local time
 # strftime is used for displaying the current time in a string

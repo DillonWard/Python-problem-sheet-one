@@ -1,3 +1,6 @@
+# calculates the factorial digit sum of 100 written in Python
+# Author: Dillon Ward (Dillonward2017@gmail.com)
+# Date: 20/09/2017
 # initializes the counter at 1 
 # so the first number multiplied is 1
 cntr = 1

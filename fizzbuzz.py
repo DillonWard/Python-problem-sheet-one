@@ -1,3 +1,6 @@
+# "FizzBuzz" problem written in Python
+# Author: Dillon Ward (Dillonward2017@gmail.com)
+# Date: 19/09/2017
 # loops between the range of 1 and 101
 for i in range(1, 101):
 
