@@ -1,6 +1,7 @@
 # guessing game written in Python
 # Author: Dillon Ward (Dillonward2017@gmail.com)
 # Date: 20/09/2017
+
 # import 'randint' from the 'random' module
 from random import randint
 
@@ -9,7 +10,7 @@ answer = randint(0, 10)
 guesses = 0 # number of guesses
 temp = 0 
 
-print("Guess a number between 0 and 10!", answer)
+print("Guess a number between 0 and 10!")
 
 
 while True:
