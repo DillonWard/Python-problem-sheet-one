@@ -5,8 +5,12 @@
 ## Introduction
 The following repository contains solutions to Python problem sheets for the module Emerging Technologies. The module is taught to undergraduate students at GMIT in the Department of Computer Science and Applied Physics. The lecturer is Ian McLoughlin.
 
+## Prerequisites
+* [git](https://git-scm.com/)
+* [Python](https://www.python.org/downloads/)
+
 ## Clone this Repository
-To clone this repository, assuming you already have [git](https://git-scm.com/) installed, you do the following:
+To clone this repository and run the solutions, do the following:
 
 ```
 In the command line change to a directory:
@@ -15,11 +19,16 @@ cd <directory>
 Clone the repository:
 git clone https://github.com/DillonWard/Python-problem-sheet-one.git
 
-Change directory into the folder:
+Change directory into the cloned folder:
 cd <folder name>
+
+*To ensure you're in the right folder, you can run the ls command to display all the files inside the folder. Files ending with 'py' are Python files.*
+   
 
 Run the program:
 py <program name>.py
+
+
 
 ```
 
@@ -98,6 +107,7 @@ Write a function that merges two sorted lists into a new sorted list. [1,4,6],[2
 Implement the square root function using Newton’s method. In this case, Newton’s method is to approximate sqrt(x) by picking a starting point z and then repeating:
 
 `z_next = z - ((z*z - x) / (2 * z))`
+
 To begin with, just repeat that calculation 10 times and see how close you get to the answer for various values (1, 2, 3, …). Next, change the loop condition to stop once the value has stopped changing (or only changes by a very small delta). How close are you to the math.sqrt value?
 
 <a href="" target="_blank">Solution</a>
