@@ -6,11 +6,22 @@
 The following repository contains solutions to Python problem sheets for the module Emerging Technologies. The module is taught to undergraduate students at GMIT in the Department of Computer Science and Applied Physics. The lecturer is Ian McLoughlin.
 
 ## Clone this Repository
-To clone this repository, run the following stagement in a git command line:
+To clone this repository, assuming you already have [git](https://git-scm.com/) installed, you do the following:
 
-`git clone https://github.com/DillonWard/Python-problem-sheet-one.git`
+```
+In the command line change to a directory:
+cd <directory>
 
-Once you have cloned the repository, you can run any of the programs in a console window by going to the directory and running `py application_name.py`
+Clone the repository:
+git clone https://github.com/DillonWard/Python-problem-sheet-one.git
+
+Change directory into the folder:
+cd <folder name>
+
+Run the program:
+py <program name>.py
+
+```
 
 ## Python
 Python is an interpreted, interactive, object-oriented, widely used programming language that emphasizes code readability and allows programmers to express concepts in less lines of code in comparisson to other languages.
@@ -42,6 +53,7 @@ To install Python, you can head over to the Python [website](https://www.python.
 <a href="https://emerging-technologies.github.io/problems/python-fundamentals.html" target="_blank">Worksheet</a>
 ----
 
+##### *The following list contains problems and solutions to the worksheet. Raw code can be found by following the solutions listed below.*
 ### Hello, World!
 Write a program that prints “Hello, world!” to the screen.
 
