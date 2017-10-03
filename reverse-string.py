@@ -10,3 +10,4 @@ reversed_string = sentence[::-1]
 
 # the new reversed string is printed out
 print(reversed_string)
+# print(sentence[::-1]) can also be printed just like this
