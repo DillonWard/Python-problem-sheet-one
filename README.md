@@ -9,7 +9,7 @@ The following repository contains solutions to Python problem sheets for the mod
 * [git](https://git-scm.com/)
 * [Python](https://www.python.org/downloads/)
 
-## Clone this Repository
+## Cloning this Repository
 To clone this repository and run the solutions, do the following:
 
 ```
@@ -22,14 +22,12 @@ git clone https://github.com/DillonWard/Python-problem-sheet-one.git
 Change directory into the cloned folder:
 cd <folder name>
 
-*To ensure you're in the right folder, you can run the ls command to display all the files inside the folder. Files ending with 'py' are Python files.*
+*To ensure you're in the right folder, you can run the ls command to display all the files inside the folder. 
+Files ending with 'py' are Python files.*
    
-
+   
 Run the program:
 py <program name>.py
-
-
-
 ```
 
 ## Python
@@ -57,7 +55,7 @@ Python was designed to be easy to read and understand. Python's layout has helpe
 The implication with Python is that anyone can come along and read it almost like English, which makes it easier for coding beginners. Since Python is a very high-level language, it is easy to read and understand.
 
 ### Installation
-To install Python, you can head over to the Python [website](https://www.python.org/downloads/) and download the installer. This was created using Python 3.
+To install Python, you can head over to the Python [website](https://www.python.org/downloads/) and download the installer. The following solutions were coded using Python 3.
 
 <a href="https://emerging-technologies.github.io/problems/python-fundamentals.html" target="_blank">Worksheet</a>
 ----
